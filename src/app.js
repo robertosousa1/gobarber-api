@@ -1,5 +1,5 @@
-const express = require('express');
-const routes = require('./routes');
+import express from 'express';
+import routes from './routes';
 
 class App {
   // método construtor é chamado automaticamente toda vez que está classe for chamada
