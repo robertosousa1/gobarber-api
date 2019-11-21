@@ -1,8 +1,9 @@
 import express from 'express';
 import routes from './routes';
 
+import './database';
+
 class App {
-  // método construtor é chamado automaticamente toda vez que está classe for chamada
   constructor() {
     this.server = express();
 
