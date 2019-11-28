@@ -36,7 +36,7 @@
 ## :up: Getting started
 -   Clone this repo
 -   `npm install` or `yarn` to install all required dependencies
--   `yarn dev`  to start the local server
+-   `yarn dev` and `yarn queue` to start the full featured local server
 
 ## :rocket: Main dependencies
 
