@@ -11,4 +11,7 @@ module.exports = {
     underscored: true,
     underscoredAll: true,
   },
+  retry: {
+    max: 10,
+  },
 };
